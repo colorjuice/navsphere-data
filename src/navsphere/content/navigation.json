@@ -6,17 +6,7 @@
       "icon": "FolderKanban",
       "description": "",
       "enabled": true,
-      "items": [
-        {
-          "id": "site_1784791513112_necqi32eb",
-          "title": "智能作弊王",
-          "href": "https://v2ex.com",
-          "description": "创意工作者的社区。讨论编程、设计、硬件、游戏等令人激动的话题。",
-          "icon": "/assets/favicon_1784791500541.png",
-          "useDefaultIcon": false,
-          "enabled": true
-        }
-      ],
+      "items": [],
       "subCategories": []
     }
   ]
