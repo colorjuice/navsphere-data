@@ -5,8 +5,8 @@
     "keywords": ""
   },
   "appearance": {
-    "logo": "/logo.png",
-    "favicon": "/favicon.ico",
+    "logo": "https://cdn.jsdelivr.net/gh/colorjuice/navsphere-data@main/public/assets/favicon_1784793884868.png",
+    "favicon": "https://cdn.jsdelivr.net/gh/colorjuice/navsphere-data@main/public/assets/favicon_1784793884868.png",
     "theme": "system"
   },
   "navigation": {
