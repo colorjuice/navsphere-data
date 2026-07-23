@@ -1,0 +1,13 @@
+{
+  "navigationItems": [
+    {
+      "id": "1784791376951",
+      "title": "测试分类",
+      "icon": "FolderKanban",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
+    }
+  ]
+}
