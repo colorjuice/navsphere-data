@@ -15,6 +15,15 @@
           "icon": "/assets/favicon_1784793884868.png",
           "useDefaultIcon": false,
           "enabled": true
+        },
+        {
+          "id": "site_1784798666645_dgnfy193k",
+          "title": "API Hub",
+          "href": "https://rapidapi.com/",
+          "description": "Explore your APIs",
+          "icon": "/assets/favicon_1784798642329.png",
+          "useDefaultIcon": false,
+          "enabled": true
         }
       ],
       "subCategories": []
