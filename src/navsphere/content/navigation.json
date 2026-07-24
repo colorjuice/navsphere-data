@@ -108,7 +108,16 @@
           "enabled": true
         }
       ],
-      "subCategories": []
+      "subCategories": [
+        {
+          "id": "6619c8ba-2b3c-4428-9580-6e352c249eb7",
+          "title": "IP检测",
+          "icon": "Book",
+          "description": "",
+          "enabled": true,
+          "items": []
+        }
+      ]
     },
     {
       "id": "1784879974697",
