@@ -245,6 +245,15 @@
           "icon": "/assets/favicon_1784880868648.png",
           "useDefaultIcon": false,
           "enabled": true
+        },
+        {
+          "id": "site_1784881687636_pejothe2z",
+          "title": "LowEndTalk – Web Hosting Forum &amp; Community",
+          "href": "https://lowendtalk.com/",
+          "description": "LowEndTalk is a leading community forum for hosting professionals and enthusiasts, with real world discussions, provider reviews, industry news, and uncensored opinions on VPS, cloud, and dedicated servers.",
+          "icon": "/assets/favicon_1784881677355.ico",
+          "useDefaultIcon": false,
+          "enabled": true
         }
       ],
       "subCategories": [
