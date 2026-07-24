@@ -200,6 +200,15 @@
           "icon": "/assets/favicon_1784793884868.png",
           "useDefaultIcon": false,
           "enabled": true
+        },
+        {
+          "id": "site_1784880276438_z0eqt66q9",
+          "title": "提醒，ipv6已关闭 | NodeSeek",
+          "href": "https://www.nodeseek.com/",
+          "description": "",
+          "icon": "/assets/favicon_1784880270452.png",
+          "useDefaultIcon": false,
+          "enabled": true
         }
       ],
       "subCategories": []
