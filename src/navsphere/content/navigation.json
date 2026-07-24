@@ -152,11 +152,11 @@
             },
             {
               "id": "site_1784882295085_8kueokfbn",
-              "title": "dash.lazycat.wiki",
+              "title": "懒猫云",
               "href": "https://dash.lazycat.wiki/",
-              "description": "Incudal",
-              "icon": "/assets/favicon_1784882284594.png",
-              "useDefaultIcon": false,
+              "description": "懒猫云",
+              "icon": "/assets/favicon_1784882338228.png",
+              "useDefaultIcon": true,
               "enabled": true
             }
           ]
