@@ -116,6 +116,14 @@
           "description": "",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "cf8ca90e-0328-4d60-9a57-69f9b50896ee",
+          "title": "NAT小鸡",
+          "icon": "Files",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     },
