@@ -124,7 +124,17 @@
       "icon": "FolderKanban",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "site_1784879611413_x8bo8x0il",
+          "title": "Iplark",
+          "href": "https://iplark.com/",
+          "description": "访问 iplark.com",
+          "icon": "/assets/favicon_1784879603225.png",
+          "useDefaultIcon": false,
+          "enabled": true
+        }
+      ],
       "subCategories": []
     }
   ]
