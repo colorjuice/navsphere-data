@@ -26,15 +26,6 @@
           "enabled": true
         },
         {
-          "id": "site_1784806019950_xj3luvzzh",
-          "title": "dealignai (dealign.ai)",
-          "href": "https://huggingface.co/dealignai/activity/all",
-          "description": "破解大模型。ML Researcher - No fine tuning, no lora, no template bs, pure real ablation. - I have an obsession with making high quality red teaming LLM’s",
-          "icon": "/assets/favicon_1784805923633.png",
-          "useDefaultIcon": false,
-          "enabled": true
-        },
-        {
           "id": "site_1784860742966_wtcf7e2tz",
           "title": "GD音乐台 - GD Studio's Online Music Platform",
           "href": "https://music.gdstudio.xyz/",
@@ -162,7 +153,17 @@
       "icon": "FolderKanban",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "site_1784806019950_xj3luvzzh",
+          "title": "dealignai (dealign.ai)",
+          "href": "https://huggingface.co/dealignai/activity/all",
+          "description": "破解大模型。ML Researcher - No fine tuning, no lora, no template bs, pure real ablation. - I have an obsession with making high quality red teaming LLM’s",
+          "icon": "/assets/favicon_1784805923633.png",
+          "useDefaultIcon": false,
+          "enabled": true
+        }
+      ],
       "subCategories": [
         {
           "id": "83c70645-ac8d-49b3-86ec-ffceb9145fde",
