@@ -97,15 +97,6 @@
           "icon": "/assets/favicon_1784879666805.png",
           "useDefaultIcon": false,
           "enabled": true
-        },
-        {
-          "id": "site_1784879920775_dmve4fuu8",
-          "title": "IP 查询 - IP分流测试 - Net.Coffee",
-          "href": "https://ip.net.coffee/",
-          "description": "查询本机 IP 地址及归属地，测试分流规则是否生效。支持国内外 35+ 网站出口 IP 检测、网络连通性测试，一键查看 Cloudflare、Discord、ChatGPT 等站点的实际出口。",
-          "icon": "/assets/favicon_1784879915143.svg",
-          "useDefaultIcon": false,
-          "enabled": true
         }
       ],
       "subCategories": [
@@ -115,7 +106,17 @@
           "icon": "Book",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1784879920775_dmve4fuu8",
+              "title": "IP 查询 - IP分流测试 - Net.Coffee",
+              "href": "https://ip.net.coffee/",
+              "description": "查询本机 IP 地址及归属地，测试分流规则是否生效。支持国内外 35+ 网站出口 IP 检测、网络连通性测试，一键查看 Cloudflare、Discord、ChatGPT 等站点的实际出口。",
+              "icon": "/assets/favicon_1784879915143.svg",
+              "useDefaultIcon": false,
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "ec14ec7b-81b4-4690-81db-1515f5f6c828",
