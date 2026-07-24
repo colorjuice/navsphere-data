@@ -161,7 +161,17 @@
       "icon": "FolderKanban",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "site_1784880005550_37nkbu94z",
+          "title": "SubBoost - Clash 订阅转换与管理服务",
+          "href": "https://subboost.org/",
+          "description": "Clash 订阅转换、生成与管理工具，支持链式代理、智能分流、多协议和多订阅聚合。",
+          "icon": "/assets/favicon_1784879998562.png",
+          "useDefaultIcon": false,
+          "enabled": true
+        }
+      ],
       "subCategories": []
     }
   ]
