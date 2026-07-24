@@ -272,15 +272,6 @@
           "icon": "/assets/favicon_1784881032964.png",
           "useDefaultIcon": false,
           "enabled": true
-        },
-        {
-          "id": "site_1784881123025_pftba0vmu",
-          "title": "吾爱汇编",
-          "href": "https://www.52hb.com/",
-          "description": "访问 www.52hb.com",
-          "icon": "/assets/favicon_1784881104973.png",
-          "useDefaultIcon": false,
-          "enabled": true
         }
       ],
       "subCategories": [
@@ -290,7 +281,17 @@
           "icon": "Book",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1784881123025_pftba0vmu",
+              "title": "吾爱汇编",
+              "href": "https://www.52hb.com/",
+              "description": "访问 www.52hb.com",
+              "icon": "/assets/favicon_1784881104973.png",
+              "useDefaultIcon": false,
+              "enabled": true
+            }
+          ]
         }
       ]
     }
