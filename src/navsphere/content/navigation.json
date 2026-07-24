@@ -131,7 +131,17 @@
           "icon": "Zap",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1784882219745_kzdnliv0a",
+              "title": "Shlii",
+              "href": "https://shlii.io/",
+              "description": "访问 shlii.io",
+              "icon": "/assets/favicon_1784882208181.png",
+              "useDefaultIcon": false,
+              "enabled": true
+            }
+          ]
         }
       ]
     },
