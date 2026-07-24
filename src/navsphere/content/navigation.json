@@ -236,6 +236,15 @@
           "icon": "/assets/favicon_1784861913046.ico",
           "useDefaultIcon": false,
           "enabled": true
+        },
+        {
+          "id": "site_1784880717996_0r09b45k3",
+          "title": "Blackhatworld",
+          "href": "https://www.blackhatworld.com/",
+          "description": "访问 www.blackhatworld.com",
+          "icon": "/assets/favicon_1784880710133.png",
+          "useDefaultIcon": false,
+          "enabled": true
         }
       ],
       "subCategories": []
