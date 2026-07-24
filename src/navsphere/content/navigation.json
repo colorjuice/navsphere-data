@@ -193,6 +193,15 @@
           ]
         }
       ]
+    },
+    {
+      "id": "1784880199668",
+      "title": "论坛社区",
+      "icon": "FolderKanban",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
