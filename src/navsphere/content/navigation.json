@@ -26,15 +26,6 @@
           "enabled": true
         },
         {
-          "id": "site_1784801476628_v336dvo5y",
-          "title": "Plati",
-          "href": "https://plati.market/",
-          "description": "毛子点卡交易市场，提供各种AI订阅",
-          "icon": "/assets/favicon_1784801443627.png",
-          "useDefaultIcon": false,
-          "enabled": true
-        },
-        {
           "id": "site_1784806019950_xj3luvzzh",
           "title": "dealignai (dealign.ai)",
           "href": "https://huggingface.co/dealignai/activity/all",
@@ -188,7 +179,17 @@
           "icon": "BookOpen",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1784801476628_v336dvo5y",
+              "title": "Plati",
+              "href": "https://plati.market/",
+              "description": "毛子点卡交易市场，提供各种AI订阅",
+              "icon": "/assets/favicon_1784801443627.png",
+              "useDefaultIcon": false,
+              "enabled": true
+            }
+          ]
         }
       ]
     }
