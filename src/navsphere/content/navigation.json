@@ -53,11 +53,11 @@
           "enabled": true
         },
         {
-          "id": "site_1784860667796_eduxn92vd",
-          "title": "Hacker News",
-          "href": "https://news.ycombinator.com/",
-          "description": "黑客新闻",
-          "icon": "/assets/favicon_1784860655013.svg",
+          "id": "site_1784860742966_wtcf7e2tz",
+          "title": "GD音乐台 - GD Studio's Online Music Platform",
+          "href": "https://music.gdstudio.xyz/",
+          "description": "听音乐",
+          "icon": "/assets/favicon_1784860728504.ico",
           "useDefaultIcon": false,
           "enabled": true
         }
