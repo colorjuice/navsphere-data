@@ -87,6 +87,15 @@
           "icon": "/assets/favicon_1784861316081.png",
           "useDefaultIcon": false,
           "enabled": true
+        },
+        {
+          "id": "site_1784861402276_ltdsfs3ru",
+          "title": "1lou",
+          "href": "https://www.1lou.info/",
+          "description": "BT下载站",
+          "icon": "/assets/favicon_1784861383110.png",
+          "useDefaultIcon": false,
+          "enabled": true
         }
       ],
       "subCategories": []
