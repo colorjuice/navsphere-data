@@ -173,6 +173,15 @@
         }
       ],
       "subCategories": []
+    },
+    {
+      "id": "1784880051300",
+      "title": "AI相关",
+      "icon": "FolderKanban",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
