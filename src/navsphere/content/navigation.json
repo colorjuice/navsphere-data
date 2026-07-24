@@ -78,6 +78,15 @@
           "icon": "/assets/favicon_1784861006840.png",
           "useDefaultIcon": false,
           "enabled": true
+        },
+        {
+          "id": "site_1784861325061_wo24dskul",
+          "title": "云盘盘 &#8211; 支持阿里云盘、百度云盘、夸克云盘、迅雷云盘分类搜索",
+          "href": "https://www.yppan.com/",
+          "description": "支持阿里云盘、百度云盘、夸克云盘、迅雷云盘分类搜索",
+          "icon": "/assets/favicon_1784861316081.png",
+          "useDefaultIcon": false,
+          "enabled": true
         }
       ],
       "subCategories": []
