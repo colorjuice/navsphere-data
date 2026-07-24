@@ -218,6 +218,15 @@
           "icon": "/assets/favicon_1784880301666.png",
           "useDefaultIcon": false,
           "enabled": true
+        },
+        {
+          "id": "site_1784880389899_d5pahxs5y",
+          "title": "Hostloc",
+          "href": "https://hostloc.com/",
+          "description": "访问 hostloc.com",
+          "icon": "/assets/favicon_1784880382219.png",
+          "useDefaultIcon": false,
+          "enabled": true
         }
       ],
       "subCategories": []
