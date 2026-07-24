@@ -149,6 +149,15 @@
               "icon": "/assets/favicon_1784882244819.ico",
               "useDefaultIcon": false,
               "enabled": true
+            },
+            {
+              "id": "site_1784882295085_8kueokfbn",
+              "title": "dash.lazycat.wiki",
+              "href": "https://dash.lazycat.wiki/",
+              "description": "Incudal",
+              "icon": "/assets/favicon_1784882284594.png",
+              "useDefaultIcon": false,
+              "enabled": true
             }
           ]
         }
