@@ -8,15 +8,6 @@
       "enabled": true,
       "items": [
         {
-          "id": "site_1784793893078_b87kxui4q",
-          "title": "Linux",
-          "href": "https://linux.do/",
-          "description": "访问 linux.do",
-          "icon": "/assets/favicon_1784793884868.png",
-          "useDefaultIcon": false,
-          "enabled": true
-        },
-        {
           "id": "site_1784798666645_dgnfy193k",
           "title": "API Hub",
           "href": "https://rapidapi.com/",
@@ -200,7 +191,17 @@
       "icon": "FolderKanban",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "site_1784793893078_b87kxui4q",
+          "title": "Linux",
+          "href": "https://linux.do/",
+          "description": "访问 linux.do",
+          "icon": "/assets/favicon_1784793884868.png",
+          "useDefaultIcon": false,
+          "enabled": true
+        }
+      ],
       "subCategories": []
     }
   ]
