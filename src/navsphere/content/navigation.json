@@ -105,6 +105,15 @@
           "icon": "/assets/favicon_1784861913046.ico",
           "useDefaultIcon": false,
           "enabled": true
+        },
+        {
+          "id": "site_1784862047331_zr2bd8228",
+          "title": "Pinterest",
+          "href": "https://www.pinterest.com/",
+          "description": "发现想要尝试的食谱、家居创意、时尚灵感及其他创意点子。",
+          "icon": "/assets/favicon_1784862038326.png",
+          "useDefaultIcon": false,
+          "enabled": true
         }
       ],
       "subCategories": []
