@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Incudal">
+  <meta name="theme-color" content="#0a0a0a">
+  <link rel="icon" type="image/png" id="favicon" href="data:,">
+  <link rel="apple-touch-icon" id="apple-touch-icon" href="data:,">
+  <title></title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+  <script>
+    (function () {
+      const storedTheme = localStorage.getItem('theme');
+      const theme = storedTheme === 'light' || storedTheme === 'dark' || storedTheme === 'system'
+        ? storedTheme
+        : 'system';
+      let resolved = theme;
+      if (theme === 'system') {
+        resolved = window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+      }
+      document.documentElement.classList.add(resolved);
+      document.documentElement.style.colorScheme = resolved;
+      document.querySelector('meta[name="theme-color"]').setAttribute('content', resolved === 'dark' ? '#0a0a0a' : '#ffffff');
+
+      function applyBranding(data) {
+        if (data && data.siteTitle) document.title = data.siteTitle;
+        if (data && data.logoPath) {
+          var favicon = document.getElementById('favicon');
+          var appleIcon = document.getElementById('apple-touch-icon');
+          if (favicon) favicon.href = data.logoPath;
+          if (appleIcon) appleIcon.href = data.logoPath;
+        }
+      }
+
+      window.__PUBLIC_CONFIG_PROMISE__ = fetch('/api/system-config/public', { cache: 'no-store' })
+        .then(function (res) { return res.json(); })
+        .then(function (data) {
+          window.__PUBLIC_CONFIG_BOOTSTRAP__ = data;
+          applyBranding(data);
+          return data;
+        })
+        .catch(function () { return null; });
+    })();
+  </script>
+  <style>
+    html.dark body {
+      background: #0a0a0a;
+    }
+
+    html.light body {
+      background: #ffffff;
+    }
+  </style>
+  <script type="module" crossorigin src="/assets/BNq_qURR.js"></script>
+  <link rel="modulepreload" crossorigin href="/assets/qkP8CzJP.js">
+  <link rel="modulepreload" crossorigin href="/assets/IJCgj5kK.js">
+  <link rel="modulepreload" crossorigin href="/assets/CTv_YiQv.js">
+  <link rel="modulepreload" crossorigin href="/assets/C1MXlxtl.js">
+  <link rel="modulepreload" crossorigin href="/assets/CuKW76jc.js">
+  <link rel="modulepreload" crossorigin href="/assets/BrQz9Rbm.js">
+  <link rel="stylesheet" crossorigin href="/assets/D9JGEvZs.css">
+  <link rel="stylesheet" crossorigin href="/assets/9CEnUXvW.css">
+  <link rel="stylesheet" crossorigin href="/assets/DLYBld56.css">
+  <link rel="stylesheet" crossorigin href="/assets/CIdz0fsE.css">
+</head>
+
+<body>
+  <div id="app"></div>
+</body>
+
+</html>
