@@ -88,15 +88,6 @@
           "icon": "/assets/favicon_1784879603225.png",
           "useDefaultIcon": false,
           "enabled": true
-        },
-        {
-          "id": "site_1784879673929_z3wxet2ig",
-          "title": "IP地址信息和纯净度检测 | IPPure",
-          "href": "https://ippure.com/",
-          "description": "在线分析IP地址纯净度和风险系数，检测真实位置、IP类型、IP来源和浏览器指纹。",
-          "icon": "/assets/favicon_1784879666805.png",
-          "useDefaultIcon": false,
-          "enabled": true
         }
       ],
       "subCategories": [
@@ -113,6 +104,15 @@
               "href": "https://ip.net.coffee/",
               "description": "查询本机 IP 地址及归属地，测试分流规则是否生效。支持国内外 35+ 网站出口 IP 检测、网络连通性测试，一键查看 Cloudflare、Discord、ChatGPT 等站点的实际出口。",
               "icon": "/assets/favicon_1784879915143.svg",
+              "useDefaultIcon": false,
+              "enabled": true
+            },
+            {
+              "id": "site_1784879673929_z3wxet2ig",
+              "title": "IP地址信息和纯净度检测 | IPPure",
+              "href": "https://ippure.com/",
+              "description": "在线分析IP地址纯净度和风险系数，检测真实位置、IP类型、IP来源和浏览器指纹。",
+              "icon": "/assets/favicon_1784879666805.png",
               "useDefaultIcon": false,
               "enabled": true
             }
