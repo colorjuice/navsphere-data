@@ -35,15 +35,6 @@
           "enabled": true
         },
         {
-          "id": "site_1784860625094_sje817f8e",
-          "title": "PriceAI | AI 低价卡网订阅与中转 API 比价雷达",
-          "href": "https://priceai.cc/",
-          "description": "购买 AI 订阅或接入 API 前，先理解官方订阅、卡网订阅、官方 API 和中转 API 的价格差异、来源、库存与风险边界。",
-          "icon": "/assets/favicon_1784860616516.svg",
-          "useDefaultIcon": false,
-          "enabled": true
-        },
-        {
           "id": "site_1784860742966_wtcf7e2tz",
           "title": "GD音乐台 - GD Studio's Online Music Platform",
           "href": "https://music.gdstudio.xyz/",
@@ -186,6 +177,15 @@
               "href": "https://plati.market/",
               "description": "毛子点卡交易市场，提供各种AI订阅",
               "icon": "/assets/favicon_1784801443627.png",
+              "useDefaultIcon": false,
+              "enabled": true
+            },
+            {
+              "id": "site_1784860625094_sje817f8e",
+              "title": "PriceAI | AI 低价卡网订阅与中转 API 比价雷达",
+              "href": "https://priceai.cc/",
+              "description": "购买 AI 订阅或接入 API 前，先理解官方订阅、卡网订阅、官方 API 和中转 API 的价格差异、来源、库存与风险边界。",
+              "icon": "/assets/favicon_1784860616516.svg",
               "useDefaultIcon": false,
               "enabled": true
             }
