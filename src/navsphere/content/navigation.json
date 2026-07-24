@@ -124,6 +124,14 @@
           "description": "",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "4804b35f-8647-405b-be2a-981bfca26752",
+          "title": "NAT小鸡",
+          "icon": "Zap",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     },
