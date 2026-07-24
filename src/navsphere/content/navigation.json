@@ -181,7 +181,16 @@
       "description": "",
       "enabled": true,
       "items": [],
-      "subCategories": []
+      "subCategories": [
+        {
+          "id": "83c70645-ac8d-49b3-86ec-ffceb9145fde",
+          "title": "购买AI订阅",
+          "icon": "BookOpen",
+          "description": "",
+          "enabled": true,
+          "items": []
+        }
+      ]
     }
   ]
 }
