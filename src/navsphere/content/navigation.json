@@ -263,6 +263,15 @@
           "icon": "/assets/favicon_1784880868648.png",
           "useDefaultIcon": false,
           "enabled": true
+        },
+        {
+          "id": "site_1784881040931_bnj2lar5q",
+          "title": "Bbs",
+          "href": "https://bbs.kanxue.com/",
+          "description": "访问 bbs.kanxue.com",
+          "icon": "/assets/favicon_1784881032964.png",
+          "useDefaultIcon": false,
+          "enabled": true
         }
       ],
       "subCategories": []
