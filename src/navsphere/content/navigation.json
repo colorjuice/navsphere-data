@@ -283,7 +283,16 @@
           "enabled": true
         }
       ],
-      "subCategories": []
+      "subCategories": [
+        {
+          "id": "e0bcf6f6-5a51-4bd4-b163-c08ed68e9200",
+          "title": "安全论坛",
+          "icon": "Book",
+          "description": "",
+          "enabled": true,
+          "items": []
+        }
+      ]
     }
   ]
 }
