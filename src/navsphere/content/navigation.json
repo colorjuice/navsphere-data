@@ -140,6 +140,15 @@
               "icon": "/assets/favicon_1784882208181.png",
               "useDefaultIcon": false,
               "enabled": true
+            },
+            {
+              "id": "site_1784882253212_xv75xpq75",
+              "title": "独角鲸云 | Narwhal Cloud",
+              "href": "https://dash.fuckip.me/",
+              "description": "",
+              "icon": "/assets/favicon_1784882244819.ico",
+              "useDefaultIcon": false,
+              "enabled": true
             }
           ]
         }
