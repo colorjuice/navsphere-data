@@ -238,15 +238,6 @@
           "enabled": true
         },
         {
-          "id": "site_1784880717996_0r09b45k3",
-          "title": "Blackhatworld",
-          "href": "https://www.blackhatworld.com/",
-          "description": "访问 www.blackhatworld.com",
-          "icon": "/assets/favicon_1784880710133.png",
-          "useDefaultIcon": false,
-          "enabled": true
-        },
-        {
           "id": "site_1784880836320_e602n1btb",
           "title": "NodeLoc",
           "href": "https://www.nodeloc.com/",
@@ -288,6 +279,15 @@
               "href": "https://bbs.kanxue.com/",
               "description": "访问 bbs.kanxue.com",
               "icon": "/assets/favicon_1784881032964.png",
+              "useDefaultIcon": false,
+              "enabled": true
+            },
+            {
+              "id": "site_1784880717996_0r09b45k3",
+              "title": "Blackhatworld",
+              "href": "https://www.blackhatworld.com/",
+              "description": "访问 www.blackhatworld.com",
+              "icon": "/assets/favicon_1784880710133.png",
               "useDefaultIcon": false,
               "enabled": true
             }
