@@ -229,15 +229,6 @@
           "enabled": true
         },
         {
-          "id": "site_1784861922809_8lde3r078",
-          "title": "T00ls | 低调求发展 - 潜心习安全 - T00ls.Com",
-          "href": "https://www.t00ls.com/",
-          "description": "T00ls，中国民间网络安全老牌社区，聚合安全领域最优秀的人群，讨论各类网络安全知识，低调研究潜心学习，为推动网络安全进步与技术革新贡献力量！T00ls持续推动合规监管，遵守中国以及国际网络安全相关法律。Awesome T00ls, Safer Cyberspace.",
-          "icon": "/assets/favicon_1784861913046.ico",
-          "useDefaultIcon": false,
-          "enabled": true
-        },
-        {
           "id": "site_1784880836320_e602n1btb",
           "title": "NodeLoc",
           "href": "https://www.nodeloc.com/",
@@ -288,6 +279,15 @@
               "href": "https://www.blackhatworld.com/",
               "description": "访问 www.blackhatworld.com",
               "icon": "/assets/favicon_1784880710133.png",
+              "useDefaultIcon": false,
+              "enabled": true
+            },
+            {
+              "id": "site_1784861922809_8lde3r078",
+              "title": "T00ls | 低调求发展 - 潜心习安全 - T00ls.Com",
+              "href": "https://www.t00ls.com/",
+              "description": "T00ls，中国民间网络安全老牌社区，聚合安全领域最优秀的人群，讨论各类网络安全知识，低调研究潜心学习，为推动网络安全进步与技术革新贡献力量！T00ls持续推动合规监管，遵守中国以及国际网络安全相关法律。Awesome T00ls, Safer Cyberspace.",
+              "icon": "/assets/favicon_1784861913046.ico",
               "useDefaultIcon": false,
               "enabled": true
             }
