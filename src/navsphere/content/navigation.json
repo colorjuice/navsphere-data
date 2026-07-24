@@ -245,6 +245,15 @@
           "icon": "/assets/favicon_1784880710133.png",
           "useDefaultIcon": false,
           "enabled": true
+        },
+        {
+          "id": "site_1784880836320_e602n1btb",
+          "title": "NodeLoc",
+          "href": "https://www.nodeloc.com/",
+          "description": "自由、平等、友好、开放、有趣的互联网交流社区",
+          "icon": "/assets/favicon_1784880829282.png",
+          "useDefaultIcon": false,
+          "enabled": true
         }
       ],
       "subCategories": []
