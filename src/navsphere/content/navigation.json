@@ -227,6 +227,15 @@
           "icon": "/assets/favicon_1784880382219.png",
           "useDefaultIcon": false,
           "enabled": true
+        },
+        {
+          "id": "site_1784880448387_9220a7i0v",
+          "title": "RSS Reader",
+          "href": "https://rss.ping8.top/",
+          "description": "四家论坛聚合RSS",
+          "icon": "/assets/favicon_1784880424109.svg",
+          "useDefaultIcon": false,
+          "enabled": true
         }
       ],
       "subCategories": []
