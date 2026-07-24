@@ -69,6 +69,15 @@
           "icon": "/assets/favicon_1784860928117.svg",
           "useDefaultIcon": false,
           "enabled": true
+        },
+        {
+          "id": "site_1784861014854_b5jec7eq3",
+          "title": "App Store Price - 发现全球 App Store 最低价",
+          "href": "https://appstoreprice.org/",
+          "description": "实时对比全球各大区 App Store 的应用价格，帮您找到购买数字产品的最佳时机支持实时汇率换算和 AI 智能分析",
+          "icon": "/assets/favicon_1784861006840.png",
+          "useDefaultIcon": false,
+          "enabled": true
         }
       ],
       "subCategories": []
