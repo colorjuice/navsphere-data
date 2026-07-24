@@ -254,6 +254,15 @@
           "icon": "/assets/favicon_1784880829282.png",
           "useDefaultIcon": false,
           "enabled": true
+        },
+        {
+          "id": "site_1784880876325_ic6e0k0y9",
+          "title": "奶昔论坛",
+          "href": "https://forum.naixi.net/",
+          "description": "",
+          "icon": "/assets/favicon_1784880868648.png",
+          "useDefaultIcon": false,
+          "enabled": true
         }
       ],
       "subCategories": []
