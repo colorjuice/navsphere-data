@@ -215,6 +215,15 @@
               "icon": "/assets/favicon_1784860616516.svg",
               "useDefaultIcon": false,
               "enabled": true
+            },
+            {
+              "id": "site_1784970369908_68frhs72c",
+              "title": "Vs",
+              "href": "https://vs.yiketools.com/",
+              "description": "卖订阅网集合",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=vs.yiketools.com",
+              "useDefaultIcon": false,
+              "enabled": true
             }
           ]
         }
