@@ -132,6 +132,15 @@
               "icon": "/assets/favicon_1784879998562.png",
               "useDefaultIcon": false,
               "enabled": true
+            },
+            {
+              "id": "site_1785938572486_wne7i9x9o",
+              "title": "1024proxy-全球最专业的代理服务商，快速、稳定且安全。",
+              "href": "https://1024proxy.com/",
+              "description": "1024proxy提供全球高速代理服务，支持http(s)，socks5协议，覆盖全球195+热门地区。",
+              "icon": "/assets/favicon_1785938545483.ico",
+              "useDefaultIcon": false,
+              "enabled": true
             }
           ]
         },
