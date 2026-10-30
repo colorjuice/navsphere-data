@@ -78,6 +78,15 @@
           "icon": "/assets/favicon_1793352385648.png",
           "useDefaultIcon": false,
           "enabled": true
+        },
+        {
+          "id": "site_1793352466422_95w6ne3os",
+          "title": "New线报酷",
+          "href": "https://new.xianbao.fun/",
+          "description": "访问 new.xianbao.fun",
+          "icon": "/assets/favicon_1793352432966.png",
+          "useDefaultIcon": false,
+          "enabled": true
         }
       ],
       "subCategories": []
