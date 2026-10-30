@@ -69,6 +69,15 @@
           "icon": "/assets/favicon_1784862038326.png",
           "useDefaultIcon": false,
           "enabled": true
+        },
+        {
+          "id": "site_1793352308980_huqaoquom",
+          "title": "SeedHub | 影视&动漫分享",
+          "href": "https://sidhub.cc/",
+          "description": "SeedHub 每天为您分享优质的电影、电视剧和动漫资讯。免费分享，无需注册，更新及时，我们致力打造最好的影视资讯分享站！",
+          "icon": "/assets/favicon_1793352291672.ico",
+          "useDefaultIcon": false,
+          "enabled": true
         }
       ],
       "subCategories": []
