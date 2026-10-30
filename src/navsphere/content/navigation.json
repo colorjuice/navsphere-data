@@ -69,6 +69,15 @@
           "icon": "/assets/favicon_1793352291672.ico",
           "useDefaultIcon": false,
           "enabled": true
+        },
+        {
+          "id": "site_1793352393245_o8ijwy3ld",
+          "title": "BankNav - 海外银行卡、eSIM、港美股券商网址导航 | 海外银行卡 | eSIM | 港美股券商 | 出海网址导航 - BankNav",
+          "href": "https://www.banknav.com/",
+          "description": "",
+          "icon": "/assets/favicon_1793352385648.png",
+          "useDefaultIcon": false,
+          "enabled": true
         }
       ],
       "subCategories": []
